@@ -1,0 +1,9 @@
+
+*.DS_Store
+*.swp
+
+bin
+build
+lib
+
+build-ios
